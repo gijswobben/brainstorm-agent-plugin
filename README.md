@@ -1,0 +1,2 @@
+# Advanced Brainstorming Agent Plugin
+This plugin is designed to enhance the brainstorming and idea generation process by providing advanced features and tools. It allows users to generate creative ideas, organize them effectively, and collaborate with others in a seamless manner.
