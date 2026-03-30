@@ -14,6 +14,15 @@ This plugin is designed to enhance the brainstorming and idea generation process
 
 ## Installation
 
+### GitHub Copilot CLI
+To install the Advanced Brainstorming Agent Plugin, run the following command in your terminal (GitHub Copilot CLI must be installed and configured):
+
 ```bash
 copilot plugin install https://github.com/gijswobben/brainstorm-agent-plugin
 ```
+
+### VS Code Extension
+To install the Advanced Brainstorming Agent Plugin as a VS Code extension, follow these steps:
+
+1. Run _"Chat: Install Plugin From Source"_ from the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
+2. Enter the URL of the plugin repository: `https://github.com/gijswobben/brainstorm-agent-plugin`
